@@ -153,7 +153,7 @@
 
 ## Continuous Integration and Continuous Deployment (CI/CD)
 
-- [ ] What is Continuous Integration and Continuous Deployment (CI/CD)?
+- [x] What is Continuous Integration and Continuous Deployment (CI/CD)?
 
   - From the StackOverflow answer:
 
@@ -178,4 +178,7 @@
 - [x] Encrypting your Heroku auth token
   - ran `heroku-token`
   - got the key
-  -
+  - pushed; errored - WRONG APP NAME
+  - fixed app name and it worked!
+
+## DONE
