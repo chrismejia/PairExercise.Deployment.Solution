@@ -37,6 +37,7 @@
     - Something about its type being HTML and not JS...
       <details>
       <summary>CLICK FOR Browser Console error messsage</summary>
+  
       ```
       some-other-app.herokuapp.com/:1 Refused to execute script from 'https://some-other-app.herokuapp.com/bundle.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.
       ```
@@ -44,6 +45,7 @@
   - Gave me an awesome log with no errors:
     <details>
     <summary>CLICK FOR Heroku Deployment Log</summary>
+  
     ```
     0:50 -> Colombo -> ~/Google Drive/FS/Review-Week/PairExercise.Deployment.Solution ->  master -> git push heroku master
     Enumerating objects: 115, done.
@@ -115,6 +117,7 @@
   - Tried `heroku logs --tail`
     <details>
     <summary>CLICK FOR Heroku logs</summary>
+  
     ```
     2018-10-27T04:50:26.735976+00:00 app[api]: Enable Logplex by user chrismejia10@gmail.com
     2018-10-27T04:50:26.625398+00:00 app[api]: Release v1 created by user chrismejia10@gmail.com
